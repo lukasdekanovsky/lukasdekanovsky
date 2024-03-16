@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to reach me: lukasdekanovsky@gmail.com or +420 732 289 554
+
+- 🌱 I’m currently learning Python desktop (Tkinter, PyQt) and Web app development (Flask, Django) 
+
 <!--
 **lukasdekanovsky/lukasdekanovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
