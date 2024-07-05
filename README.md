@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: lukasdekanovsky@gmail.com or +420 732 289 554
 
-- 🌱 I’m currently learning Python desktop (Tkinter, PyQt), Web app development (Flask, Django; SQL + Frontend; HTML/CSS; Bootstrap5) and Data analysis (Python, mySQL, PowerBI)
+- 🌱 I’m currently learning DATA ANALYSIS and VIZUALIZATION using Python and Machine learning tools (Python, Machine learning, mySQL, PowerBI)
 - ⚡ Data analysis and visualization (Python, Tableau, Power BI, SQL, Origin)
 
 #### You can find here my porfolio examples in 5 main cathegories 🤔
