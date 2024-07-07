@@ -2,8 +2,10 @@
 
 - 📫 How to reach me: lukasdekanovsky@gmail.com or +420 732 289 554
 
-- 🌱 I’m currently learning DATA ANALYSIS and VIZUALIZATION using Python and Machine learning tools (Python, Machine learning, mySQL, PowerBI)
-- ⚡ Data analysis and visualization (Python, Tableau, Power BI, SQL, Origin)
+- 🌱 I’m currently mastering DATA ANALYSIS and VIZUALIZATION using Python and Machine learning tools (Python, Machine learning, mySQL, PowerBI)
+  
+- ⚡ I am interested in  cooperation on any projects related to --> DATA SCIENCE (Python, ML, Tableau, Power BI, SQL, Origin)
+- ⚡ I have backgrounds in DESKTOP and WEB app development (Python, Flask, HTML, CSS, JS, Bootstrap, postgreSQL, Tkinter, PyQT)
 
 #### You can find here my porfolio examples in 5 main cathegories 🤔
 - Web apps
